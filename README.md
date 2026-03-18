@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there,<br>my name is Mykyta Rakhmanyi. I'm a Computer Science student from Ukraine.<br>🔭 I'm passionate about developing scalable and highly efficient applications<br>👯 I'm looking for an opportunity to enter the IT market and broaden my skills
+Hi there,<br>
+I'm Mykyta Rakhmanyi, a Backend Software Engineer with a Bachelor's degree in Computer Science.<br>
+
+🔭 I specialize in Python and API development, focusing on building scalable systems and working with relational databases.<br>
+⚙️ I have experience with FastAPI, PostgreSQL, real-time systems, and Docker-based deployment.<br>
+🚀 I also work with React and modern JavaScript when needed.<br>
+
+👯 Open to backend or fullstack opportunities.
 
 
 ## 🌐 Socials:
